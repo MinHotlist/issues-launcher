@@ -26,11 +26,17 @@ Describe your expected result.
 
 ## Your environment
 
+* Launcher version:
+
 * Game edition (choose on which edition do you have problems):
     * The Elder Scrolls V: Skyrim
     * The Elder Scrolls V: Skyrim Special Edition
 
-* Operating system.
+* Operating system (choose one):
+    * Windows 7 x32
+    * Windows 7 x64
+    * Windows 10 x32
+    * Windows 10 x64
 
 ## Evidence (optional)
 
